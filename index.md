@@ -6,8 +6,9 @@
 * [RegEx](http://regex101.com/)
 
 ### Writing
-* [http://www.thepunctuationguide.com/index.html]
+* [Punctation Guide](http://www.thepunctuationguide.com/index.html)
 
 
-
+### Jobs
+* [Work from Home](https://www.wfh.io)
 
