@@ -12,3 +12,5 @@
 ### Jobs
 * [Work from Home](https://www.wfh.io)
 
+### Misc
+[Recommendation writing - LI](https://www.themuse.com/advice/your-5minute-guide-to-writing-an-amazing-linkedin-recommendation)
