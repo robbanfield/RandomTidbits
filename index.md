@@ -11,6 +11,7 @@
 
 ### Jobs
 * [Work from Home](https://www.wfh.io)
+* [Victoria - Tech list - curated by SendWithUs](https://github.com/sendwithus/vic-startup-jobs)
 
 ### Misc
 [Recommendation writing - LI](https://www.themuse.com/advice/your-5minute-guide-to-writing-an-amazing-linkedin-recommendation)
